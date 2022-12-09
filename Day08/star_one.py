@@ -1,4 +1,4 @@
-with open("test_input.txt", 'r') as fd:
+with open("input.txt", 'r') as fd:
 	inp = fd.readlines()
 
 grid = []
